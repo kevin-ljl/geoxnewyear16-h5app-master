@@ -1,0 +1,111 @@
+/*!
+ *
+ * Copyright 2016 CREATEC(www.createcdigital.com)
+ *
+ */
+
+@charset "utf-8";
+
+/* reset */
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td,article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{margin:0;padding:0}
+html,body{height:100%}
+body,input,button,textarea,select{font-size:16px; font-family: "SimHei",Tahoma,Helvetica,Arial; color:#000;}
+h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal}
+table{border-collapse:collapse;border-spacing:0}
+fieldset,img{border:0}
+li,dd{list-style:none}
+a{color:#d30000;text-decoration:none}
+a:hover,a:active{text-decoration:underline}
+img{max-width:100%;}
+
+
+
+/* loading */
+body{overflow:hidden:background:#000;background:-webkit-gradient(radial,center center,120,center center,1100,from(#334115e),to(#2e23211));background:-moz-radial-gradient(circle,#334115e,#2e23211)}.loader{margin:0 auto; width:640px; position:absolute; top:495px; }h1{font-family:'Actor',sans-serif;color:#FFF;font-size:16px; letter-spacing:1px;font-weight:200;text-align:center;width: 640px;}.loader span{width:16px;height:16px;border-radius:50%;display:inline-block;position:absolute; left:50%;margin-left:-10px;-webkit-animation:3s infinite linear;-moz-animation:3s infinite linear;-o-animation:3s infinite linear}.loader span:nth-child(2){background:#e84c3d;-webkit-animation:kiri 1.2s infinite linear;-moz-animation:kiri 1.2s infinite linear;-o-animation:kiri 1.2s infinite linear}.loader span:nth-child(3){background:#f1c40f; z-index:100}.loader span:nth-child(4){background:#2fcc71;-webkit-animation:kanan 1.2s infinite linear;-moz-animation:kanan 1.2s infinite linear;-o-animation:kanan 1.2s infinite linear}@-webkit-keyframes kanan{0%{-webkit-transform:translateX(20px)}50%{-webkit-transform:translateX(-20px)}100%{-webkit-transform:translateX(20px); z-index:200}}@-moz-keyframes kanan{0%{-moz-transform:translateX(20px)}50%{-moz-transform:translateX(-20px)}100%{-moz-transform:translateX(20px); z-index:200}}@-o-keyframes kanan{0%{-o-transform:translateX(20px)}50%{-o-transform:translateX(-20px)}100%{-o-transform:translateX(20px); z-index:200}}@-webkit-keyframes kiri{0%{-webkit-transform:translateX(-20px); z-index:200}50%{-webkit-transform:translateX(20px)}100%{-webkit-transform:translateX(-20px)}}@-moz-keyframes kiri{0%{-moz-transform:translateX(-20px); z-index:200}50%{-moz-transform:translateX(20px)}100%{-moz-transform:translateX(-20px)}}@-o-keyframes kiri{0%{-o-transform:translateX(-20px); z-index:200}50%{-o-transform:translateX(20px)}100%{-o-transform:translateX(-20px)}}
+.loading{width:640px;height:100%;position: absolute;left: 0px;top:0px;background-color: #fff;}
+.loader-e-1{width:640px;height:100%;position: absolute;left: 0px;top:0px;}
+.loader h1{color: #fff;font-size: 32px;font-weight:;}
+
+
+.share{width: 640px;height: 100%;margin:0px; position: absolute;overflow:hidden}
+.e-1{position: absolute;top: 0px;left: 0px;}
+.user{width:640px;height:59px;position: absolute;top: 637px;left: 0spx;text-align:center;z-index:1000;}
+.userimg{height:59px;width:56px;margin:0px auto 0px -200px;z-index:1000;}
+.username{height:59px;width:300px;font-size: 32px; color: #fff;margin:-50px 80px auto auto;white-space: nowrap; text-overflow: ellipsis;overflow:hidden;z-index:1000;}
+.btn-goto{width:85px;height:85px;position: absolute;top: 879px;left: 278px;z-index:1100;}
+.share-bg{position: absolute;top: 0px;left: 0px;z-index:1000;}
+
+.swiper-slide{position: absolute;top: 0px; width:640px; height: 100%;}
+.shoes{position: absolute;top: 705px;left: 226px;z-index:1000;}
+
+/* p3 */
+.p3{display: none;}
+.p3 .e-3-4{position:absolute; top:-80px; left:0px; z-index:1000;}
+
+/* p4 */
+.p4{display: none;}
+.p4 .e-4-3{position:absolute; top:0px; left:0px; z-index:1000;}
+
+/* p5 */
+.p5{display: none;}
+.p5 .e-5-4{position:absolute; top:-80px; left:0px; z-index:1000;}
+
+/* p6 */
+.p6{display: none;}
+.p6 .e-6-4{position:absolute; top:-80px; left:0px; z-index:1000;}
+.p6 .e-6-5{position:absolute; top:500px; left:200px; z-index:1100;}
+
+/* p7 */
+.p7{display: none;}
+.p7 .e-7-3{position:absolute; top:150px; left:69px; z-index:1000;}
+.p7 .e-7-4{position:absolute; top:320px; left:199px; z-index:1000;animation: audioicon-rotate 3s linear infinite; -webkit-animation: audioicon-rotate 2s linear infinite;}
+.p7 .e-7-5{position:absolute; top:327px; left:495px; z-index:1000;animation: audioicon-rotate 3s linear infinite; -webkit-animation: audioicon-rotate 2s linear infinite;}
+.p7 .e-7-6{position:absolute; top:204px; left:290px; z-index:1000;animation: audioicon-rotate 3s linear infinite; -webkit-animation: audioicon-rotate 2s linear infinite;}
+.p7 .e-7-7{position:absolute; top:390px; left:350px; z-index:1000;animation: audioicon-rotate 3s linear infinite; -webkit-animation: audioicon-rotate 2s linear infinite;}
+.p7 .e-7-8{position:absolute; top:588px; left:51px; z-index:1000;animation: audioicon-rotate 3s linear infinite; -webkit-animation: audioicon-rotate 2s linear infinite;}
+.p7 .e-7-9{position:absolute; top:402px; left:63px; z-index:1000;animation: audioicon-rotate 3s linear infinite; -webkit-animation: audioicon-rotate 2s linear infinite;}
+.p7 .e-7-10{position:absolute; top:128px; left:300px; z-index:1000;animation: audioicon-rotate 3s linear infinite; -webkit-animation: audioicon-rotate 2s linear infinite;}
+.p7 .e-7-11{position:absolute; top:390px; left:230px; z-index:1000;animation: audioicon-rotate 3s linear infinite; -webkit-animation: audioicon-rotate 2s linear infinite;}
+.p7 .e-7-12{position:absolute; top:335px; left:110px; z-index:1000;animation: audioicon-rotate 3s linear infinite; -webkit-animation: audioicon-rotate 2s linear infinite;}
+.p7 .e-7-13{position:absolute; top:494px; left:455px; z-index:1000;animation: audioicon-rotate 3s linear infinite; -webkit-animation: audioicon-rotate 2s linear infinite;}
+
+/* p8 */
+.p8{display: none;}
+.p8 .e-8-3{width:640px;position:absolute; top:100px; left:0px;z-index:1000;}
+.p8 .e-8-4{width:640px;position:absolute; top:20px; left:0px;z-index:1000;}
+.p8 .e-8-5{position:absolute; top:0px; left:0px;overflow:hidden;z-index:1000;animation: snow1 10s linear infinite; -webkit-animation: snow1 10s linear infinite;}
+.p8 .e-8-6{position:absolute; top:0px; left:0px;overflow:hidden;z-index:1000;animation: snow2 8s linear infinite; -webkit-animation: snow2 8s linear infinite;}
+@keyframes snow1{0% {left:0px; top:-300px;}
+                            25% {left:100px; top:0px;}
+                            50% {left:50px; top:217px;}
+                            75% {left:0px; top:500px;}
+                            100% {left:100px; top:800px;}
+                            }
+@-webkit-keyframes snow1{0% {left:0px; top:-300px;}
+                            25% {left:100px; top:0px;}
+                            50% {left:50px; top:217px;}
+                            75% {left:0px; top:500px;}
+                            100% {left:100px; top:800px;}
+                            }  
+@keyframes snow2{0% {left:100px; top:-300px;}
+                            25% {left:0px; top:0px;}
+                            50% {left:50px; top:180px;}
+                            75% {left:10px; top:450px;}
+                            100% {left:100px; top:700px;}
+                            }
+@-webkit-keyframes snow2{0%{left:100px; top:-300px;}
+                            25% {left:0px; top:0px;}
+                            50% {left:50px; top:180px;}
+                            75% {left:10px; top:450px;}
+                            100% {left:100px; top:700px;}
+                            }  
+
+/* p9 */
+.p9{width:640px;display: none;}
+.p9 .e-9-3{position:absolute; top:121px; left:175px; animation: audioicon-rotate 5s linear infinite; -webkit-animation: audioicon-rotate 5s linear infinite;z-index:1000;}
+@keyframes audioicon-rotate {0% {transform: rotate(0deg);} 100% {transform: rotate(360deg);}}
+@-webkit-keyframes audioicon-rotate {0% {-webkit-transform: rotate(0deg); } 100% {-webkit-transform: rotate(360deg);}}
+
+.button{position:absolute; top:0px; left:0px; z-index:1000;}
+
+.userinfo{display: none;}

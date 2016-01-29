@@ -1,0 +1,205 @@
+CACHE MANIFEST 
+# v201601051915
+# ===========cache static resouce
+# load
+img/load/1.png
+img/load/2.png
+img/load/3.png
+img/load/4.png
+img/load/5.png
+img/load/6.png
+img/load/7.png
+img/load/8.png
+img/load/9.png
+img/load/10.png
+img/load/11.png
+img/load/12.png
+img/load/13.png
+img/load/bg.png
+# p1
+img/p1/bg.png
+img/p1/e-1.png
+img/p1/e-2.png
+img/p1/e-3.png
+img/p1/e-4.png
+img/p1/e-5.png
+# p2
+img/p2/bg.png
+img/p2/e-1.png
+img/p2/e-2.png
+# p3
+img/p3/bg.png
+img/p3/e-1.png
+img/p3/e-2.png
+img/p3/e-3.png
+img/p3/e-4.png
+img/p3-1/1.png
+img/p3-1/2.png
+img/p3-1/3.png
+img/p3-1/4.png
+img/p3-1/5.png
+img/p3-1/6.png
+img/p3-1/7.png
+img/p3-1/8.png
+img/p3-1/9.png
+# p4
+img/p4/bg.png
+img/p4/e-1.png
+img/p4/e-2.png
+img/p4-1-1/1.png
+img/p4-1-1/2.png
+img/p4-1-1/3.png
+img/p4-1-1/4.png
+img/p4-1-1/5.png
+img/p4-1-1/6.png
+img/p4-1-1/7.png
+img/p4-1-1/8.png
+img/p4-1-1/9.png
+img/p4-1-2/1.png
+img/p4-1-2/2.png
+img/p4-1-2/3.png
+img/p4-1-2/4.png
+img/p4-1-2/5.png
+img/p4-1-2/6.png
+img/p4-1-2/7.png
+img/p4-1-3/1.png
+img/p4-1-3/2.png
+img/p4-1-3/3.png
+img/p4-1-3/4.png
+img/p4-1-3/5.png
+img/p4-1-3/6.png
+img/p4-1-3/7.png
+img/p4-1-3/8.png
+img/p4-1-3/9.png
+img/p4-1-3/10.png
+img/p4-1-3/11.png
+img/p4-1-3/12.png
+img/p4-1-3/13.png
+img/p4-1-3/14.png
+img/p4-1-4/1.png
+img/p4-1-4/2.png
+img/p4-1-4/3.png
+img/p4-1-4/4.png
+img/p4-1-4/5.png
+img/p4-1-4/6.png
+img/p4-1-4/7.png
+img/p4-1-4/8.png
+img/p4-1-4/9.png
+img/p4-1-4/10.png
+img/p4-1-4/11.png
+img/p4-1-4/12.png
+img/p4-1-4/13.png
+img/p4-1-4/14.png
+# p5
+img/p5/1.png
+img/p5/2.png
+img/p5/3.png
+img/p5/bg.png
+img/p5/e-1.png
+img/p5/e-2.png
+# p6
+img/p6/bg.png
+img/p6/1.png
+img/p6/2.png
+img/p6/3.png
+img/p6/e-1.png
+img/p6/e-2.png
+img/p6/e-3.png
+# p7
+img/p7/bg.png
+img/p7/e-1.png
+img/p7/e-2.png
+img/p7/e-3.png
+img/p7-1/1.png
+img/p7-1/2.png
+img/p7-1/3.png
+img/p7-1/4.png
+img/p7-1/5.png
+img/p7-1/6.png
+img/p7-1/7.png
+img/p7-1/8.png
+img/p7-1/9.png
+img/p7-1/10.png
+# p8
+img/p8/bg.png
+img/p8/e-1.png
+img/p8/e-2.png
+img/p8/e-3.png
+img/p8/e-4.png
+# p9
+img/p9/bg.png
+img/p9/1.png
+img/p9/e-1.png
+img/p9/e-2.png
+# p10
+img/p10/bg10.png
+img/p10/10-1.png
+img/p10/e-1.png
+img/p10/e-2.png
+img/p10/e-3.png
+img/p10/e-4.png
+img/p10/e-5.png
+img/p10/e-6.png
+img/p10/e-7.png
+# p11
+img/p11/1.png
+img/p11/2.png
+img/p11/3.png
+img/p11/4.png
+img/p11/5.png
+img/p11/6.png
+img/p11/7.png
+img/p11/bg.png
+img/p11/e-1.png
+img/p11/e-2.png
+img/p11/e-3.png
+img/p11/e-4.png
+img/p11/e-5.png
+img/p11/e-6.png
+img/p11/e-7.png
+img/p11/e-8.png
+
+# other
+img/share.jpg
+img/transparent.png
+
+
+# media
+media/audio/music-icon.png
+media/audio/music-icon-s.mp3
+
+
+# css
+css/app.css
+css/share.css
+
+# js
+js/jquery/jquery-2.1.4.min.js
+js/motion/landscape.min.js
+js/motion/landscape.png
+js/motion/loader.min.js
+js/motion/overlay.min.js
+js/motion/film.min.js
+js/swiper/animate.min.css
+js/swiper/swiper.animate1.0.2.min.js
+js/swiper/swiper.jquery.min.js
+js/swiper/swiper.min.css
+js/swiper/swiper.min.js
+js/zepto/zepto.min.js
+js/qrcode/qrcode.min.js
+js/app.js
+js/share.js
+
+
+# ===========Use from network if available 
+NETWORK: 
+db
+tracking
+weChat
+http://res.wx.qq.com
+http://open.weixin.qq.com
+https://api.weixin.qq.com
+http://wx.qlogo.cn
+
+# ===========Fallback content 
+FALLBACK: 
